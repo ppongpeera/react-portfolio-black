@@ -12,8 +12,8 @@ const introdata = {
         third: "I love analyzing data",
     },
     description: "Hi! Welcome to my website. I'm Vee. Nice to see you guys.",
-    your_img_url: "https://i.ibb.co/MVcGwbt/Image-from-i-OS-1.jpg",
-    //https://images.unsplash.com/photo-1514790193030-c89d266d5a9d
+    your_img_url: "https://i.ibb.co/8NgtckX/Image-from-i-OS-2.jpg",
+    //https://images.unsplash.com/photo-1514790193030-c89d266d5a9d, https://i.ibb.co/MVcGwbt/Image-from-i-OS-1.jpg
 };
 
 const dataabout = {
